@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Christopher Bondam - CS Student | Developer</title>
+    <style>
+        body { font-family: Arial; max-width: 800px; margin: 0 auto; padding: 20px; }
+        header { text-align: center; background: #102c49; color: white; padding: 30px; }
+        section { margin: 30px 0; }
+        h2 { color: #133050; }
+        .project { border: 1px solid #ddd; padding: 15px; margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Christopher Bondam</h1>
+        <p>Computer Science Student @ University of Ghana (Legon) | Python Developer& Senior Prompt Engineer</p>
+    </header>
+    
+    <section>
+        <h2>About Me</h2>
+        <p>Hello! I'm a Level 100 CS student passionate about web development, cloud engineering, and AI/ML. Currently building projects to land my first remote developer role.</p>
+        <p>Location: Accra, Ghana | Email: techguychris2007@gmail.com | LinkedIn: linkedin.com/in/CHRISTOPHER BONDAM</p>
+    </section>
+    
+    <section>
+        <h2>Skills</h2>
+        <p>✅ Python (Flask) | ✅ HTML/CSS | ✅ JavaScript | ✅ Git/GitHub | ✅ Learning AWS|✅Prompt engineering</p>
+    </section>
+    
+    <section>
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>📝 To-Do List App (Coming Soon)</h3>
+            <p>Full-stack app with Python Flask backend + HTML frontend</p>
+        </div>
+        <div class="project">
+            <h3>🌐 Personal Portfolio</h3>
+            <p>This website you're viewing right now!</p>
+        </div>
+    </section>
+    
+    <section style="text-align: center;">
+        <p>👋 Let's connect! Open to remote junior developer opportunities.</p>
+    </section>
+</body>
+</html>
